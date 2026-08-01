@@ -45,3 +45,15 @@ Examples:
 Download: [AllMusicDiscsCraftable.zip](all-music-discs-craftable/AllMusicDiscsCraftable.zip)
 
 Full music disc ID list: https://bestminecraftid.com/types/music-discs/
+
+### BestMinecraftID Lookup (in-game ID lookup)
+
+Look up any item or entity ID **without leaving the game**:
+
+- `/function bestminecraftid:id/<item_name>` — shows the namespaced ID with one-click copy, plus a ready-to-paste `/give` command
+- `/function bestminecraftid:entity/<entity_name>` — same for entities, with `/summon`
+- `/function bestminecraftid:help` — usage overview
+
+Covers 1,416 items + 151 entities. Minecraft Java Edition 1.20.5+.
+
+Download: [BestMinecraftID-lookup.zip](idlookup/BestMinecraftID-lookup.zip)
