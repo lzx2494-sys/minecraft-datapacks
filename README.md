@@ -32,3 +32,16 @@ Requires Minecraft Java Edition 1.21.2+. Multiplayer friendly.
 ## License
 
 MIT
+
+### All Music Discs Craftable
+
+All 21 music discs craftable in survival: **Note Block + themed item = Music Disc**.
+
+Examples:
+- Pigstep = Note Block + Gold Ingot
+- Tears = Note Block + Ghast Tear
+- 5 = Note Block + Sculk
+
+Download: [AllMusicDiscsCraftable.zip](all-music-discs-craftable/AllMusicDiscsCraftable.zip)
+
+Full music disc ID list: https://bestminecraftid.com/types/music-discs/
