@@ -54,6 +54,6 @@ Look up any item or entity ID **without leaving the game**:
 - `/function bestminecraftid:entity/<entity_name>` — same for entities, with `/summon`
 - `/function bestminecraftid:help` — usage overview
 
-Covers 1,416 items + 151 entities. Minecraft Java Edition 1.20.5+.
+Covers 1,416 items + 151 entities. Minecraft Java Edition 1.21.5+.
 
 Download: [BestMinecraftID-lookup.zip](idlookup/BestMinecraftID-lookup.zip)
