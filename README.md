@@ -48,12 +48,15 @@ Full music disc ID list: https://bestminecraftid.com/types/music-discs/
 
 ### BestMinecraftID Lookup (in-game ID lookup)
 
-Look up any item or entity ID **without leaving the game**:
+Look up any item or entity ID **without leaving the game**. Two editions, same data (1,416 items + 151 entities, MC Java 1.21.5+):
 
-- `/function bestminecraftid:id/<item_name>` — shows the namespaced ID with one-click copy, plus a ready-to-paste `/give` command
-- `/function bestminecraftid:entity/<entity_name>` — same for entities, with `/summon`
-- `/function bestminecraftid:help` — usage overview
+**Lite** (46 KB, for SpigotMC upload limits): browse by first letter
+- `/function bestminecraftid:id/<first letter>` — clickable list: copy any ID or `/give` command
+- `/function bestminecraftid:entity/<first letter>` — same for entities, with `/summon`
 
-Covers 1,416 items + 151 entities. Minecraft Java Edition 1.21.5+.
+Download: [BestMinecraftID-lookup-lite.zip](idlookup/BestMinecraftID-lookup-lite.zip)
+
+**Full** (557 KB): direct per-item functions
+- `/function bestminecraftid:id/<item_name>` — exact lookup in one command
 
 Download: [BestMinecraftID-lookup.zip](idlookup/BestMinecraftID-lookup.zip)
